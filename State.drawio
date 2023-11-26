@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T11:41:14.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.664 YaBrowser/23.9.5.664 Yowser/2.5 Safari/537.36" etag="BPyv1CnIwI-_dKfaEXiG" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T14:29:21.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.664 YaBrowser/23.9.5.664 Yowser/2.5 Safari/537.36" etag="Uptu5NuYE0wjhCa09dBb" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="yMmEk63G5wUTri25HnyO">
-    <mxGraphModel dx="956" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1631" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,14 +68,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ifQr551FSaZixNDqUTZm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ifQr551FSaZixNDqUTZm-14" target="ifQr551FSaZixNDqUTZm-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="690" y="630" />
-              <mxPoint x="690" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ifQr551FSaZixNDqUTZm-14" value="Выдана игрушка" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="120" y="610" width="120" height="40" as="geometry" />
         </mxCell>
@@ -100,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ifQr551FSaZixNDqUTZm-15" value="Выдано 2 шарика" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="270" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="270" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ifQr551FSaZixNDqUTZm-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.324;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ifQr551FSaZixNDqUTZm-15" target="ifQr551FSaZixNDqUTZm-7">
           <mxGeometry relative="1" as="geometry">
