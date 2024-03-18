@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T20:58:03.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="VP6An6EC8hpxCqcGwWR6" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T21:01:21.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="lIU0NU5RLhUKmKC3Z2ZH" version="24.0.6" type="github">
   <diagram name="Страница — 1" id="Q6oGJT2M6feUB9S8YeGF">
-    <mxGraphModel dx="3402" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3617" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,33 +235,6 @@
             <mxPoint x="1620" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qVLar4vw04AviX0a01Ea-94" value="Отправка на публикацию" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="3812.9507678504397" y="210.46344571193345" as="geometry" />
-        </mxCell>
-        <mxCell id="qVLar4vw04AviX0a01Ea-95" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3784" y="288.53" as="sourcePoint" />
-            <mxPoint x="3814" y="258.53" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qVLar4vw04AviX0a01Ea-96" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3784" y="248.52999999999997" as="sourcePoint" />
-            <mxPoint x="3814" y="218.53" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qVLar4vw04AviX0a01Ea-97" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3814" y="258.53" as="sourcePoint" />
-            <mxPoint x="3784" y="248.52999999999997" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qVLar4vw04AviX0a01Ea-121" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3738" y="289.71" as="sourcePoint" />
-            <mxPoint x="3843" y="290.14" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qVLar4vw04AviX0a01Ea-122" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="1540" y="240" width="180" height="100" as="geometry" />
         </mxCell>
@@ -285,33 +258,6 @@
         </mxCell>
         <mxCell id="qVLar4vw04AviX0a01Ea-126" value="Сохранить файлы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qVLar4vw04AviX0a01Ea-122">
           <mxGeometry x="25" y="26" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qVLar4vw04AviX0a01Ea-127" value="Объявление опубликовано" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="4102.95076785044" y="209.99344571193345" as="geometry" />
-        </mxCell>
-        <mxCell id="qVLar4vw04AviX0a01Ea-128" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4074" y="288.06" as="sourcePoint" />
-            <mxPoint x="4104" y="258.06" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qVLar4vw04AviX0a01Ea-129" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4074" y="248.05999999999997" as="sourcePoint" />
-            <mxPoint x="4104" y="218.06" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qVLar4vw04AviX0a01Ea-130" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4104" y="258.06" as="sourcePoint" />
-            <mxPoint x="4074" y="248.05999999999997" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qVLar4vw04AviX0a01Ea-131" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4024" y="290.40999999999997" as="sourcePoint" />
-            <mxPoint x="4134" y="290" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="qVLar4vw04AviX0a01Ea-132" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="340" width="185" height="100" as="geometry" />
