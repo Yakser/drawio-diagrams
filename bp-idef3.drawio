@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T21:25:24.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="wEep15bin4ZKk-7_DYEp" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T21:26:55.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="0nIr18N5zk-PU6r2KAZP" version="24.0.7" type="github">
   <diagram name="Страница — 1" id="Q6oGJT2M6feUB9S8YeGF">
     <mxGraphModel dx="1624" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
         </mxCell>
         <mxCell id="xbFx6X0q_8RoKJY1mMfS-6" value="Файлы для сохранения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="xbFx6X0q_8RoKJY1mMfS-4">
           <mxGeometry x="0.6235" y="-1" relative="1" as="geometry">
-            <mxPoint x="1604" y="-26" as="offset" />
+            <mxPoint x="1895" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xbFx6X0q_8RoKJY1mMfS-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -322,6 +322,27 @@
             <mxPoint x="-370" y="259" as="sourcePoint" />
             <mxPoint x="-400" y="249" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xbFx6X0q_8RoKJY1mMfS-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="289" as="sourcePoint" />
+            <mxPoint x="1780" y="259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xbFx6X0q_8RoKJY1mMfS-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="248.99999999999997" as="sourcePoint" />
+            <mxPoint x="1780" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xbFx6X0q_8RoKJY1mMfS-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1780" y="259" as="sourcePoint" />
+            <mxPoint x="1750" y="248.99999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xbFx6X0q_8RoKJY1mMfS-11" value="Сохраненные файлы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1779.9507678504397" y="210.93344571193344" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
