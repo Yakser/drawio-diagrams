@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T21:05:16.119Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="2riC2dumcED47C0GCn9q" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T21:07:14.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="A7WnSsDQcF5xW54TLfqS" version="24.2.1" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="3227" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -281,10 +281,10 @@
         <mxCell id="1a48cHM-rbSCBEIywxOe-86" value="XOR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="1510" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1a48cHM-rbSCBEIywxOe-88" value="Информация о базе данных клиента" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="1a48cHM-rbSCBEIywxOe-88" value="Оптимизация" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="-1" y="1560" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1a48cHM-rbSCBEIywxOe-89" value="Информация о базе данных клиента" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="1a48cHM-rbSCBEIywxOe-89" value="Оптимизация" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="401" y="1560" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
