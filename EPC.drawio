@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T09:43:02.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="SeCPSiAcf47UFvMlF9G5" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T09:44:31.327Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="kujPtoGiHzjqsiEiHq7B" version="24.4.0" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="3332" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -338,31 +338,31 @@
           <mxGeometry x="140" y="2380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdemdNmmWS1HO77QlKRB-11" value="Информирование об услугах" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="2480" width="120" height="60" as="geometry" />
+          <mxGeometry x="-491" y="2480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdemdNmmWS1HO77QlKRB-12" value="Управление тарифными планами" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="2580" width="120" height="60" as="geometry" />
+          <mxGeometry x="-490" y="2560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdemdNmmWS1HO77QlKRB-13" value="Управление финансовыми операциями" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="2690" width="120" height="60" as="geometry" />
+          <mxGeometry x="-490" y="2640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdemdNmmWS1HO77QlKRB-17" value="Поиск и выбор поставщиков" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="2490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdemdNmmWS1HO77QlKRB-18" value="Подбор оборудования для закупки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-244" y="2580" width="120" height="60" as="geometry" />
+          <mxGeometry x="-244" y="2570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdemdNmmWS1HO77QlKRB-19" value="Интеграция оборудования" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-244" y="2690" width="120" height="60" as="geometry" />
+          <mxGeometry x="-244" y="2650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdemdNmmWS1HO77QlKRB-23" value="Исследование рынка" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10.669999999999987" y="2480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdemdNmmWS1HO77QlKRB-24" value="Разработка маркетинговых стратегий" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10.669999999999987" y="2570" width="120" height="60" as="geometry" />
+          <mxGeometry x="-10.669999999999987" y="2560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdemdNmmWS1HO77QlKRB-25" value="Создание рекламных кампаний" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10.669999999999987" y="2670" width="120" height="60" as="geometry" />
+          <mxGeometry x="-10.669999999999987" y="2640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cdemdNmmWS1HO77QlKRB-29" value="Учет финансовых операций" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="2480" width="120" height="60" as="geometry" />
