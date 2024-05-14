@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T18:45:15.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="aWi4z8lyRzeJ2vLoOCqc" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T09:43:02.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="SeCPSiAcf47UFvMlF9G5" version="24.4.0" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="3703" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3332" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,6 +372,18 @@
         </mxCell>
         <mxCell id="cdemdNmmWS1HO77QlKRB-32" value="Контроль использования материальных ресурсов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="2650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdemdNmmWS1HO77QlKRB-36" value="website" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-250.67" y="3100" width="300" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="cdemdNmmWS1HO77QlKRB-37" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="3320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdemdNmmWS1HO77QlKRB-40" value="ИС" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3090" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdemdNmmWS1HO77QlKRB-41" value="Сотрудник" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3210" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
