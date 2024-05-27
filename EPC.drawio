@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T19:13:58.398Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="IaGKXFH2RQyZhN0AF4aH" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T19:18:00.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="CxBpzftPkledQnCpG-co" version="24.4.8" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="2840" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3576" dy="2179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -573,35 +573,38 @@
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-7" value="Оплата тарифного плана" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1240" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="w1gplxYFZ_ECaGkfUf2r-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w1gplxYFZ_ECaGkfUf2r-9" target="w1gplxYFZ_ECaGkfUf2r-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-9" value="Сохранение данных на платформе" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1080" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-11" value="Пользователь" style="swimlane;rotation=-90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="-1403.5" y="-36.5" width="384.83" height="775" as="geometry" />
+          <mxGeometry x="-1352.75" y="-87.25" width="384.83" height="876.5" as="geometry" />
         </mxCell>
-        <mxCell id="w1gplxYFZ_ECaGkfUf2r-12" value="Сайт облачного файлового хранилища" style="swimlane;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-1377.5" y="337.5" width="330" height="775" as="geometry" />
+        <mxCell id="w1gplxYFZ_ECaGkfUf2r-12" value="Сайт облачного файлового хранилища" style="swimlane;rotation=-90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="-1326.87" y="286.88" width="330" height="876.25" as="geometry" />
         </mxCell>
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-1" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="w1gplxYFZ_ECaGkfUf2r-12">
-          <mxGeometry x="127.5" y="381.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="76.5" y="432.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="w1gplxYFZ_ECaGkfUf2r-12" source="w1gplxYFZ_ECaGkfUf2r-19" target="w1gplxYFZ_ECaGkfUf2r-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="w1gplxYFZ_ECaGkfUf2r-12">
-          <mxGeometry x="-22.5" y="262.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="-73.5" y="313.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-21" value="Поступление данных" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w1gplxYFZ_ECaGkfUf2r-12">
-          <mxGeometry x="-48.75" y="351.5" width="132.5" height="30" as="geometry" />
+          <mxGeometry x="-99.75" y="402.5" width="132.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="w1gplxYFZ_ECaGkfUf2r-12" source="w1gplxYFZ_ECaGkfUf2r-22" target="w1gplxYFZ_ECaGkfUf2r-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-22" value="Загрузить данные в систему" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="w1gplxYFZ_ECaGkfUf2r-12">
-          <mxGeometry x="97.5" y="272.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="46.5" y="323.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-24" value="Хранилище файлов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w1gplxYFZ_ECaGkfUf2r-12">
-          <mxGeometry x="97.5" y="452.5" width="132.5" height="30" as="geometry" />
+          <mxGeometry x="46.5" y="503.5" width="132.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-15" value="Информация об услугах и тарифных планах" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-983" y="483" width="153" height="30" as="geometry" />
@@ -614,6 +617,21 @@
         </mxCell>
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="w1gplxYFZ_ECaGkfUf2r-9" target="w1gplxYFZ_ECaGkfUf2r-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1gplxYFZ_ECaGkfUf2r-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w1gplxYFZ_ECaGkfUf2r-28" value="Файлы сохранены" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-872" y="293" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w1gplxYFZ_ECaGkfUf2r-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-849" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w1gplxYFZ_ECaGkfUf2r-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w1gplxYFZ_ECaGkfUf2r-22" target="w1gplxYFZ_ECaGkfUf2r-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1gplxYFZ_ECaGkfUf2r-31" value="Завершение работы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-875" y="565" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
