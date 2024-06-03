@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T17:10:14.752Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="BlBVN9WZNDlmWuJRD0EM" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T19:03:44.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="49g-MsRTVgmQoEuhCf9J" version="24.4.13" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="4744" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5813" dy="2385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -716,29 +716,29 @@
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w1gplxYFZ_ECaGkfUf2r-128" target="w1gplxYFZ_ECaGkfUf2r-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4v52emmIGSoiavItC1u7-1" value="Пользователь" style="swimlane;rotation=-90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="-2484.6" y="-869.41" width="504" height="1280" as="geometry" />
+        <mxCell id="4v52emmIGSoiavItC1u7-1" value="Пользователь" style="swimlane;rotation=-90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-3420.3" y="-769.71" width="504" height="1080.59" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-4" target="4v52emmIGSoiavItC1u7-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-2690" y="-365.48" width="80" height="80" as="geometry" />
+          <mxGeometry x="-3630" y="-365.48" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-5" value="Запрос на оптимизацю БД" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2740" y="-425.48" width="180" height="30" as="geometry" />
+          <mxGeometry x="-3680" y="-425.48" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-6" value="Оплата через банковскую систему" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2560" y="-355.48" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3500" y="-355.48" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-8" target="4v52emmIGSoiavItC1u7-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-8" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=timer;" vertex="1" parent="1">
-          <mxGeometry x="-2342" y="-350.48000000000013" width="50" height="50" as="geometry" />
+          <mxGeometry x="-3282" y="-350.48000000000013" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-9" value="Ожидание прохождения оплаты" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2407" y="-393.13" width="180" height="30" as="geometry" />
+          <mxGeometry x="-3347" y="-393.13" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-6" target="4v52emmIGSoiavItC1u7-8">
           <mxGeometry relative="1" as="geometry" />
@@ -749,43 +749,43 @@
         <mxCell id="4v52emmIGSoiavItC1u7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-11" target="4v52emmIGSoiavItC1u7-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2167" y="-280" />
-              <mxPoint x="-2167" y="-280" />
+              <mxPoint x="-3107" y="-280" />
+              <mxPoint x="-3107" y="-280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-11" value="&amp;nbsp;Оптимизации БД&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2227" y="-355.48" width="120" height="60" as="geometry" />
+          <mxGeometry x="-3167" y="-355.48" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-13" target="4v52emmIGSoiavItC1u7-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-13" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=timer;" vertex="1" parent="1">
-          <mxGeometry x="-2080" y="-350.48000000000013" width="50" height="50" as="geometry" />
+          <mxGeometry x="-3020" y="-350.48000000000013" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-15" target="4v52emmIGSoiavItC1u7-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-15" value="Результат оптимизации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2010" y="-355.48" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2950" y="-355.48" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1858" y="-365.48" width="80" height="80" as="geometry" />
+          <mxGeometry x="-2798" y="-365.48" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-18" value="Оптимизация завершена" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1883" y="-410.13" width="130" height="30" as="geometry" />
+          <mxGeometry x="-2823" y="-410.13" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-23" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2197" y="-254.63" width="60" height="60" as="geometry" />
+          <mxGeometry x="-3137" y="-254.63" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-24" value="Хранилище файлов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2227" y="-183.63" width="132.5" height="30" as="geometry" />
+          <mxGeometry x="-3167" y="-183.63" width="132.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-26" value="Информация о результате оптимизации" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1906" y="-220.13" width="153" height="30" as="geometry" />
+          <mxGeometry x="-2846" y="-220.13" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-27" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
-          <mxGeometry x="-1980.6" y="-244.13" width="60" height="80" as="geometry" />
+          <mxGeometry x="-2920.6" y="-244.13" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-15" target="4v52emmIGSoiavItC1u7-27">
           <mxGeometry relative="1" as="geometry" />
@@ -794,13 +794,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-34" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=message;" vertex="1" parent="1">
-          <mxGeometry x="-1975.6" y="-120" width="50" height="50" as="geometry" />
+          <mxGeometry x="-2915.6" y="-120" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-27" target="4v52emmIGSoiavItC1u7-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-36" value="Уведомление о завершении оптимизации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1890" y="-125.00000000000003" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2830" y="-125.00000000000003" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
