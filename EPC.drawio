@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T17:06:40.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="J96u1a30ZXgIrgtQDtOJ" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T17:10:14.752Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="BlBVN9WZNDlmWuJRD0EM" version="24.4.13" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="6010" dy="2504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4744" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -716,26 +716,8 @@
         <mxCell id="w1gplxYFZ_ECaGkfUf2r-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w1gplxYFZ_ECaGkfUf2r-128" target="w1gplxYFZ_ECaGkfUf2r-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4v52emmIGSoiavItC1u7-1" value="Пользователь" style="swimlane;rotation=-90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="-2490.83" y="-741.3" width="730.8299999999999" height="1078.81" as="geometry" />
-        </mxCell>
-        <mxCell id="4v52emmIGSoiavItC1u7-27" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="4v52emmIGSoiavItC1u7-1">
-          <mxGeometry x="510.8299999999999" y="499.40999999999997" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4v52emmIGSoiavItC1u7-26" value="Информация о результате оптимизации" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4v52emmIGSoiavItC1u7-1">
-          <mxGeometry x="577.8299999999999" y="523.41" width="153" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4v52emmIGSoiavItC1u7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4v52emmIGSoiavItC1u7-1" source="4v52emmIGSoiavItC1u7-29" target="4v52emmIGSoiavItC1u7-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4v52emmIGSoiavItC1u7-29" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=message;" vertex="1" parent="4v52emmIGSoiavItC1u7-1">
-          <mxGeometry x="515.8299999999999" y="631.3" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="4v52emmIGSoiavItC1u7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4v52emmIGSoiavItC1u7-1" source="4v52emmIGSoiavItC1u7-27" target="4v52emmIGSoiavItC1u7-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4v52emmIGSoiavItC1u7-31" value="Результат оптимизации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4v52emmIGSoiavItC1u7-1">
-          <mxGeometry x="610.8299999999999" y="621.3" width="120" height="60" as="geometry" />
+        <mxCell id="4v52emmIGSoiavItC1u7-1" value="Пользователь" style="swimlane;rotation=-90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="-2484.6" y="-869.41" width="504" height="1280" as="geometry" />
         </mxCell>
         <mxCell id="4v52emmIGSoiavItC1u7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-4" target="4v52emmIGSoiavItC1u7-6">
           <mxGeometry relative="1" as="geometry" />
@@ -799,8 +781,26 @@
         <mxCell id="4v52emmIGSoiavItC1u7-24" value="Хранилище файлов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2227" y="-183.63" width="132.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4v52emmIGSoiavItC1u7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-15" target="4v52emmIGSoiavItC1u7-27">
+        <mxCell id="4v52emmIGSoiavItC1u7-26" value="Информация о результате оптимизации" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1906" y="-220.13" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4v52emmIGSoiavItC1u7-27" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="-1980.6" y="-244.13" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4v52emmIGSoiavItC1u7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-15" target="4v52emmIGSoiavItC1u7-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4v52emmIGSoiavItC1u7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-34" target="4v52emmIGSoiavItC1u7-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4v52emmIGSoiavItC1u7-34" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=message;" vertex="1" parent="1">
+          <mxGeometry x="-1975.6" y="-120" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4v52emmIGSoiavItC1u7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4v52emmIGSoiavItC1u7-27" target="4v52emmIGSoiavItC1u7-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4v52emmIGSoiavItC1u7-36" value="Уведомление о завершении оптимизации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1890" y="-125.00000000000003" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
